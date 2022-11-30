@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/37244541-ccd8-4c17-a26b-396813cd425c/deploy-status)](https://app.netlify.com/sites/fluffy-maamoul-89d06a/deploys)
 <p align="center">
   <a href="https://revealjs.com">
   <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text-sticker.png" alt="reveal.js" width="500">
